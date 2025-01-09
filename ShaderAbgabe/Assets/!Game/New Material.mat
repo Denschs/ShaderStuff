@@ -25,7 +25,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _EDITION_POLYCHROME
+  - _EDITION_FOIL
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -67,7 +67,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _EDITION: 1
+    - _EDITION: 2
     - _EnableExternalAlpha: 0
     - _Rotation_power: 2.11
     - _poly_brightness: 1.12
